@@ -1,0 +1,10 @@
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\bin\Debug\ScanTest.exe.config
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\bin\Debug\ScanTest.exe
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\bin\Debug\ScanTest.pdb
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\obj\Debug\ScanTest.csprojResolveAssemblyReference.cache
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\obj\Debug\ScanTest.Entry.resources
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\obj\Debug\ScanTest.Properties.Resources.resources
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\obj\Debug\ScanTest.csproj.GenerateResource.Cache
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\obj\Debug\ScanTest.csproj.CoreCompileInputs.cache
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\obj\Debug\ScanTest.exe
+C:\Users\Kasha\Documents\Visual Studio 2017\Projects\ScanTest\ScanTest\obj\Debug\ScanTest.pdb
